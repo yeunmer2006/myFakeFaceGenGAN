@@ -75,7 +75,7 @@
    # dataloader 和 train 环节将img_dim = 64 修改为128
    ```
 
-### 四、train.py 大致思想
+### 四、**train.py的大致思想**
 1. **数据准备**：
    ```python
    transform = Compose([
